@@ -1,0 +1,11 @@
+.bg_red{
+    background-color: #ff4444;
+}
+
+.subs_1r .btn {
+    border: 1px solid #fff;
+    color: #ff4444;
+    padding: 11px 40px;
+    font-weight: bold;
+    border-radius: 0px 5px 5px 0px;
+}
